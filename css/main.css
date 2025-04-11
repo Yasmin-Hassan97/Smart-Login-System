@@ -1,0 +1,48 @@
+h1{
+  color: #17a2b8;
+
+}
+
+body{
+  background-color: #24353f;
+}
+
+.group {
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.bg-color{
+  --bs-body-bg:transparent;
+  --bs-body-color: #fff;
+}
+.form-control::-webkit-input-placeholder {
+  color:#b6b6b6;
+}
+
+input:focus{
+  box-shadow: 0 0 0 0 transparent !important;
+}
+.sign:hover{
+  text-decoration: underline !important;
+}
+a{
+  text-decoration: none !important;
+}
+
+#home{
+  height: 75vh;
+}
+
+#home ul{
+  margin-left: auto;
+}
+.btn-outline-warning{
+  border: 1px solid #ffc107;
+}
+.btn:hover{
+  color: #fff;
+}
+.nav-link:hover{
+  text-decoration: none;
+}
+
