@@ -125,6 +125,7 @@ function login(){
      }
     }
     else{
+      
        document.getElementById('errorMsg').innerText="incorrect email or password"
     }
 }
